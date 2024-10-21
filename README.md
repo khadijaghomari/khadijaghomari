@@ -68,14 +68,6 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="80" height="30"/>
       </a>
       &emsp;
-      <a href="https://catboost.ai/" target="_blank">
-         <img src="https://catboost.ai/images/catboost_logo.png" alt="CatBoost" width="40" height="40"/>
-      </a>
-      &emsp;
-      <a href="https://lightgbm.readthedocs.io/" target="_blank">
-         <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" alt="LightGBM" width="80" height="30"/>
-      </a>
-      &emsp;
       <a href="https://fast.ai/" target="_blank">
          <img src="https://raw.githubusercontent.com/fastai/fastai/master/docs/imgs/logo.png" alt="FastAI" width="80" height="30"/>
       </a>
